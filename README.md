@@ -1,0 +1,2 @@
+# telenor
+myanmar
